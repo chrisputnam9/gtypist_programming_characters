@@ -1,5 +1,5 @@
 # GNU Typist - improved typing tutor program for UNIX systems
-# Copyright (C) 1998  Simon Baldwin (simonb@sco.com)
+# Copyright (C) 1998 Simon Baldwin (simonb@sco.com)
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -8,11 +8,11 @@
 #
 # This program is distributed in the hope that it will be useful,
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
-# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 # GNU General Public License for more details.
 #
 # You should have received a copy of the GNU General Public License
-# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+# along with this program. If not, see <http://www.gnu.org/licenses/>.
 #
 # This lesson was written by Daniel Long Sockwell
 
@@ -42,7 +42,7 @@ T:In the P series of lessons we work on special characters with an
  :or markup languages.
  :
  :We will start by reviewing the special characters that share keys with
- :the numerals on a standard US QWERTY keyboard: ! @ # $ % ^ & * ( ).  If
+ :the numerals on a standard US QWERTY keyboard: ! @ # $ % ^ & * ( ). If
  :you would like additional practice with these keys, please refer to the
  :T series of lessons in Gtypist.
 
@@ -68,7 +68,7 @@ S:It is hard to believe, but 230 minus 220 times one half equals 5!
  :(And 5!, of course, equals 5 * 4 * 3 * 2 * 1.)
  :
  :username@domainname.com is the #1 most common format for email addresses.
- :To convey Three Squared in numerals, some people write 3^2.  But in some
+ :To convey Three Squared in numerals, some people write 3^2. But in some
  :programming languages, you should write 3 ** 2 instead.
  :The % symbol can have different meanings; it can mean percent, as in
  :(10% of 90) equals 9
@@ -134,10 +134,10 @@ D:;;;; /'?" "??" '//' ";;" '??'
  :;;?? "";; ::;; '':: '//' :"":
 
 I:(5) Try some more sentences
-S:What is your name?  I hope it's "Bob": I've always liked the name "Bob".
+S:What is your name? I hope it's "Bob": I've always liked the name "Bob".
  :
- :I've noticed that few gadgets have "on/off" switches these days.  These days,
- :it's all "on/standby" or something!  Why is that?  Is "off" not good enough?
+ :I've noticed that few gadgets have "on/off" switches these days. These days,
+ :it's all "on/standby" or something! Why is that? Is "off" not good enough?
 
 I:(6) And now a bit more "Hello world" coding
 S:// Hello world in JavaScript
@@ -205,8 +205,8 @@ I:(6) Try some sentences
 S:The hyphen ("-") is used for compound words; the en dash,
  :which is longer than a hyphen, is used to indicate a range.
  :If you cannot use a true en dash, some people accept two 
- :hyphens ("--") instead.  The em dash is even longer than an
- :en dash, and is used to indicate a break in a sentence.  If
+ :hyphens ("--") instead. The em dash is even longer than an
+ :en dash, and is used to indicate a break in a sentence. If
  :you cannot use a true em dash, some people accept three 
  :hyphens ("---") instead. 
  :
@@ -383,9 +383,9 @@ I:(4) Practice the ] and [ keys
 D:;[]; ];[; ;;][ ];;[ [];; ][;;
  :[;'] [p-] [-/] [:"] [P_] [_?]
 I:(5) Try some sentences
-S:Hello [name]!  How are you this [time_of_day]?
+S:Hello [name]! How are you this [time_of_day]?
  :
- :I'm [current_feeling], thanks for asking.  Are you also [current_feeling]?
+ :I'm [current_feeling], thanks for asking. Are you also [current_feeling]?
  :
  :And how about [spouse]? [Is he/Is she/Are they] doing well?
  :
@@ -527,7 +527,7 @@ N:MENU
 # Lesson P9—Practice with Simple Programs
 *:PRACTICE_1
 B:Lesson P9
-I:(1) Practice with simple programs.  Try a palindrome finder in Python
+I:(1) Practice with simple programs. Try a palindrome finder in Python
 S:# function to check string is 
  :# palindrome or not 
  :def isPalindrome(str):
